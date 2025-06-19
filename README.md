@@ -169,7 +169,7 @@ Pull requests are welcome! Whether it's adding a new distro or improving the scr
 
 ## ⚖️ License
 
-This project is licensed under the [MIT License](https://github.com/KIRAN-KUMAR-K3/DistroLab-Termux/blob/main/LICENSE).
+This project is licensed under the [GNU License](https://github.com/KIRAN-KUMAR-K3/DistroLab-Termux/blob/main/LICENSE).
 
 ---
 
